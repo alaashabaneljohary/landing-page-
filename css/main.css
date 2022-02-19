@@ -1,0 +1,73 @@
+
+
+
+/* Start Section Home */
+#homePepsi {
+    background-color: #222;
+    height: 100%;
+    width: 100%;
+}
+.nav-item {
+    margin-right: 10px;
+}
+.nav-link {
+    color: #fff;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+.title {
+    font-size: 80px;
+    font-weight: bold;
+    color: #fff;
+    margin-bottom: 10px;
+}
+.links {
+    width: 190px;
+    padding: 5px;
+    border-radius: 15PX;
+    margin-top: 20px;
+    border: 0;
+    margin-bottom: 30px;
+
+}
+
+.scohial {
+
+    width: 50px;
+    height: 150px;
+    right: 0;
+    top: 300px;
+    position: fixed;
+    background-color: rgba(0,0,0,0.2);
+    margin:0 auto;
+    
+   
+}
+.scohial a {
+    display: block;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.scohial a:hover {
+    color: cornflowerblue;
+}
+.anchorImg {
+    cursor: pointer;
+    margin-left: 10px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.navbar-toggler {
+
+    background-color: #fff !important;
+    border: 1px solid #fff !important;
+   
+}
+.navbar-toggler-icon {
+   background-image: url("../images/menu.png");
+
+   background-color: #222;
+}
